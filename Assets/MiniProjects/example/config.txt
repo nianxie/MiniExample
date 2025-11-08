@@ -1,0 +1,13 @@
+{
+    "name": "示例项目",
+    "craftable": false,
+    "majorVersion": 0,
+    "minorVersion": 20251018,
+    "patchVersion": "beta",
+    "unityVersion": "2022.3.62f2c1",
+    "scripts": [
+        "luafab/MiniRoot.lua",
+        "src/MiniContext.lua"
+    ],
+    "previewVideoUrl": ""
+}

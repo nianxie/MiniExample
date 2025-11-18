@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Demo/DemoScene.unity
-    guid: ec6e213438e4afe4ba9aa7aced8b4600
-  - enabled: 1
     path: Assets/NianxieMini/DefaultAssets/MiniScene.unity
     guid: ae213c8685c6519419acfbdd574e1e8e
   m_configObjects: {}

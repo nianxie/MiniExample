@@ -6,11 +6,16 @@
 
 ## 安装
 
-递归拉取仓库，然后再Unity中打开
+递归拉取仓库，然后在Unity中打开
 
 ```sh
 git clone --recursive https://github.com/nianxie/MiniExample.git
 ```
+
+## 快速入门
+
+- 打开prefab文件Assets/MiniProjects/example/luafab/MiniRoot.prefab，随意修改一些内容
+- 打开Assets/NianxieMini/PreviewScene.unity，运行example项目
 
 ## 文档
 
